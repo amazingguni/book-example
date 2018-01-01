@@ -2,6 +2,7 @@
 
 [![codecov](https://codecov.io/gh/amazingguni/book-example/branch/master/graph/badge.svg)](https://codecov.io/gh/amazingguni/book-example)
 
+
 This repository contains all the example code from my book, "Test-Driven Web
 Development with Python", available at
 [www.obeythetestinggoat.com](https://www.obeythetestinggoat.com)
