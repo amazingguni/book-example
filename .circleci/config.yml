@@ -45,7 +45,7 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
-            coverage ./manage.py test accounts lists
+            coverage run ./manage.py test accounts lists
             codecov
 
       - store_artifacts:
